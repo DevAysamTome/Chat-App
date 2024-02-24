@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/Chat-App/static/js/main.05789b33.js",
+    "static/js/510.c59fc400.chunk.js": "/Chat-App/static/js/510.c59fc400.chunk.js",
+    "static/js/207.53e720df.chunk.js": "/Chat-App/static/js/207.53e720df.chunk.js",
+    "static/js/678.8a7704c8.chunk.js": "/Chat-App/static/js/678.8a7704c8.chunk.js",
+    "static/js/787.35cea4b2.chunk.js": "/Chat-App/static/js/787.35cea4b2.chunk.js",
+    "static/js/631.8197571d.chunk.js": "/Chat-App/static/js/631.8197571d.chunk.js",
+    "static/js/531.abf04810.chunk.js": "/Chat-App/static/js/531.abf04810.chunk.js",
+    "static/media/logo.ico": "/Chat-App/static/media/logo.45af386bcce066c1c6ab.ico",
+    "index.html": "/Chat-App/index.html",
+    "main.05789b33.js.map": "/Chat-App/static/js/main.05789b33.js.map",
+    "510.c59fc400.chunk.js.map": "/Chat-App/static/js/510.c59fc400.chunk.js.map",
+    "207.53e720df.chunk.js.map": "/Chat-App/static/js/207.53e720df.chunk.js.map",
+    "678.8a7704c8.chunk.js.map": "/Chat-App/static/js/678.8a7704c8.chunk.js.map",
+    "787.35cea4b2.chunk.js.map": "/Chat-App/static/js/787.35cea4b2.chunk.js.map",
+    "631.8197571d.chunk.js.map": "/Chat-App/static/js/631.8197571d.chunk.js.map",
+    "531.abf04810.chunk.js.map": "/Chat-App/static/js/531.abf04810.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.05789b33.js"
+  ]
+}
