@@ -1,7 +1,7 @@
 {
   "name": "chat",
   "version": "0.1.0",
-  "homepage": "https://devaysamtome.github.io/chat-app-1",
+  "homepage": "https://devaysamtome.github.io/Chat-App",
   "private": true,
   "dependencies": {
     "@emoji-mart/data": "^1.0.6",
