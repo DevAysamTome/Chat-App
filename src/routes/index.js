@@ -25,7 +25,7 @@ export default function Router() {
         { element: <Navigate to={DEFAULT_PATH} replace />, index: true },
         { path: "app", element: <GeneralApp /> },
         
-        { path: "404", element: <Page404 /> },
+        { path: "404", element: <GeneralApp /> },
         { path: "/", element: <Navigate to="/404" replace /> },
       ],
     },
