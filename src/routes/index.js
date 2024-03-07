@@ -25,11 +25,11 @@ export default function Router() {
         { element: <Navigate to={DEFAULT_PATH} replace />, index: true },
         { path: "app", element: <GeneralApp /> },
         
-        { path: "404", element: <GeneralApp /> },
+        { path: "/app", element: <GeneralApp /> },
         { path: "/", element: <Navigate to="/app" replace /> },
       ],
     },
-    { path: "/404", element: <Navigate to="/app" replace /> },
+    { path: "/", element: <Navigate to="/app" replace /> },
   ]);
 }
 
