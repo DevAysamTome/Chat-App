@@ -26,10 +26,10 @@ export default function Router() {
         { path: "app", element: <GeneralApp /> },
         
         { path: "404", element: <GeneralApp /> },
-        { path: "/", element: <Navigate to="app" replace /> },
+        { path: "/", element: <Navigate to="/app" replace /> },
       ],
     },
-    { path: "/404", element: <Navigate to="app" replace /> },
+    { path: "/404", element: <Navigate to="/app" replace /> },
   ]);
 }
 
